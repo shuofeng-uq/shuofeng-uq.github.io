@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuofeng Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The University of Queensland"
+  bio              : # "The University of Queensland"
   location         : "Brisbane, Australia"
   employer         :
   pubmed           : 
