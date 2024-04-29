@@ -15,11 +15,19 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
+
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, supervised by A/Prof. <a href="">Guangdong Bai</a> and Dr. <a href="">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues, especially on building trustworthy AI and designing privacy-preserving systems. 
+I am currently a Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, supervised by A/Prof. <a href="https://baigd.github.io/">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues, especially on building trustworthy AI and designing privacy-preserving systems. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# Research Interests
+
+<ul>
+  <li>Trustworthy AI</li>
+  <li>Safety of Multimodal Models</li>
+  <li>NSFW content generation and solving</li>
+</ul>
 
 
 # 🔥 News
