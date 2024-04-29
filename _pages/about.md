@@ -18,7 +18,6 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-
 I am currently a Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, supervised by A/Prof. <a href="https://baigd.github.io/">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues, especially on building trustworthy AI and designing privacy-preserving systems. 
 
 # Research Interests
@@ -56,14 +55,3 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
