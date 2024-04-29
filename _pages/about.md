@@ -25,16 +25,17 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 
 <ul>
   <li>Trustworthy AI</li>
-  <li>Safety of Multimodal Models</li>
-  <li>NSFW content generation and solving</li>
+  <li>Safety of Multimodal Models and Large Language Models</li>
+  <li>NSFW content generation and Mitigation</li>
+  <li>Privacy-Preserving on Purpose Limitation Principle</li>
 </ul>
 
 
-# 🔥 News
+# News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
