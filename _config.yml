@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuofeng Liu"
-description              : "Shuofeng Liu's academic personal website"
+description              : "second-year PhD student at School of EECS, The University of Queensland"
 repository               : "shuofeng-uq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Shuofeng Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The University of Queensland"
-  location         : "Brisbane, QLD, Australia"
+  location         : "Brisbane, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=-W3U0aoAAAAJ&hl=en&authuser=1"
