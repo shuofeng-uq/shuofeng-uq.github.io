@@ -38,10 +38,10 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
   
 # Publications 
 
-<span style="color:#007BFF;">**Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation**</span>  
+<span style="color:#000080;">**Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation**</span>  
 **Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024*  
 
-<span style="color:#007BFF;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</span>  
+<span style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</span>  
 Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023*
 
 
