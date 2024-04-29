@@ -31,8 +31,11 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 </ul>
 
 # News
-- [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23. 
-- [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24.
+- [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24!
+- [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
+- [Apr. 2023] I become a PhD student at UQ supervised by A/Prof. Guangdong Bai and Dr. Jason Xue!
+- [Dec. 2022] I am successful in applying for CSIRO's Data61 full scholarship with top-up!
+- [Jan. 2021] Our paper on the LSTM-based hybrid water level prediction method is accepted by JASSE!
   
 # Publications 
 
