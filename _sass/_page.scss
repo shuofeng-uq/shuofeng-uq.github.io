@@ -15,6 +15,11 @@
     max-width: $x-large;
   }
 
+  @media screen and (min-width: $sidebar-min-width) {
+    padding-left: 2em;
+    padding-right: 2em;
+   }
+
   // @include breakpoint($small) {
   //   padding-left: 2em;
   //   padding-right: 2em;
