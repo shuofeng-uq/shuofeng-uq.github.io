@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shuofeng Liu"
-  avatar           : "images/figure.png"
+  avatar           : "images/figure_square.png"
   bio              : "Second-year Ph.D. student at School of EECS, The University of Queensland"
   location         : "Brisbane, Australia"
   employer         :
