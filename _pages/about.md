@@ -40,7 +40,7 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 
 <a href="https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7" style="color:#000080;">**Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation**</a>  
 **Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* <br>
-<a href="https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://github.com/shuofeng-uq/Publications/blob/main/_USENIX__24__Camera_Ready_Being_Transparent_is_Merely_the_Begining__Enforcing_Purpose_Limitation_with_Polynomial_Approximation.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7" style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</a>  
 Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023* <br>
