@@ -131,6 +131,11 @@ a {
   }
 }
 
+a:hover {
+   text-decoration: underline;
+   color: red;
+   transform: scale(1:05)
+
 /* code */
 
 tt, code, kbd, samp, pre {
