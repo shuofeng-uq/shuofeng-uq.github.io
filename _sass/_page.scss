@@ -17,7 +17,7 @@
 }
 
 .page {
-  margin-top: 2em;
+  margin-top: 1em;
    
   @include breakpoint($large) {
     @include span(10 of 12 last);
