@@ -46,7 +46,7 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023* <br>
 <a href="https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
-<span style="color:#000080;">**LSTM Based Hybrid Method for Basin Water Level Prediction by Using Precipitation Data**</span>  
+<a href="https://www.jstage.jst.go.jp/article/jasse/8/1/8_40/_article/-char/en" style="color:#000080;">**LSTM Based Hybrid Method for Basin Water Level Prediction by Using Precipitation Data**</a>  
 **Shuofeng Liu**, Puwen Lei, Koji Koyamada. *JASSE 2021* <br>
-<a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://www.jstage.jst.go.jp/article/jasse/8/1/8_40/_pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
