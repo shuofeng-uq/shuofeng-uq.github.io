@@ -15,15 +15,15 @@
     max-width: $x-large;
   }
 
-  // @include breakpoint($small) {
-  //   padding-left: 2em;
-  //   padding-right: 2em;
-  // }
+  @include breakpoint($small) {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
 
-  // @include breakpoint($medium) {
-  //   padding-left: 2em;
-  //   padding-right: 2em;
-  // }
+  @include breakpoint($medium) {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
 }
 
 .page {
