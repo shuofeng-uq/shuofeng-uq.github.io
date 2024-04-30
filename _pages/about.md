@@ -39,14 +39,14 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 # Publications 
 
 <span style="color:#000080;">**Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation**</span>  
-**Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* </br>
+**Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* <br>
 <a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <span style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</span>  
-Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023* </br>
+Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023* <br>
 <a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <span style="color:#000080;">**LSTM Based Hybrid Method for Basin Water Level Prediction by Using Precipitation Data**</span>  
-**Shuofeng Liu**, Puwen Lei, Koji Koyamada. *JASSE 2021* </br>
+**Shuofeng Liu**, Puwen Lei, Koji Koyamada. *JASSE 2021* <br>
 <a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
