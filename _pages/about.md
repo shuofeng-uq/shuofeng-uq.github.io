@@ -44,9 +44,9 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 
 <a href="https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7" style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</a>  
 Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023* <br>
-<a href="https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf" role="button" target="_blank">PDF</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:475yQTf-pLcJ:scholar.google.com/&output=citation&scisdr=ClEyD-t4ENeZgpBLWtE:AFWwaeYAAAAAZjBNQtGodwMlX6-j_PnQwxZJEUM&scisig=AFWwaeYAAAAAZjBNQgdeLLYvpQ5M1TEP18dotug&scisf=4&ct=citation&cd=-1&hl=en" role="button" target="_blank">BibTex</a>
 
 <a href="https://www.jstage.jst.go.jp/article/jasse/8/1/8_40/_article/-char/en" style="color:#000080;">**LSTM Based Hybrid Method for Basin Water Level Prediction by Using Precipitation Data**</a>  
 **Shuofeng Liu**, Puwen Lei, Koji Koyamada. *JASSE 2021* <br>
-<a href="https://www.jstage.jst.go.jp/article/jasse/8/1/8_40/_pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://www.jstage.jst.go.jp/article/jasse/8/1/8_40/_pdf" role="button" target="_blank">PDF</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oJErFaRqPfwJ:scholar.google.com/&output=citation&scisdr=ClEyD-t4ENeZgpBLCHk:AFWwaeYAAAAAZjBNEHknvSetKZUt0HrVqbhnxME&scisig=AFWwaeYAAAAAZjBNEI3YZOPjaWoF4p8L-L7pQ4s&scisf=4&ct=citation&cd=-1&hl=en" role="button" target="_blank">BibTex</a>
 
