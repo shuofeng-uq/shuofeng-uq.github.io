@@ -132,9 +132,9 @@ a {
 }
 
 a:hover {
-   text-decoration: underline;
-   color: red;
-   transform: scale(1:05)
+   text-decoration: underline !important;
+   color: red !important;
+   transform: scale(1:05) !important;
 
 /* code */
 
