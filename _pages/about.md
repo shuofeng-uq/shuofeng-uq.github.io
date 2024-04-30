@@ -42,9 +42,9 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 **Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* <br>
 <a href="https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
-<span style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</span>  
+<a href="https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7" style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</a>  
 Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023* <br>
-<a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://mark-h-meng.github.io/publications/attachments/ma2023formalizing.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <span style="color:#000080;">**LSTM Based Hybrid Method for Basin Water Level Prediction by Using Precipitation Data**</span>  
 **Shuofeng Liu**, Puwen Lei, Koji Koyamada. *JASSE 2021* <br>
