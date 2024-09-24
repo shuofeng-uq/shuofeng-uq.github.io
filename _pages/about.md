@@ -23,20 +23,25 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 # Research Interests
 
 <ul>
-  <li>Trustworthy AI</li>
+  <li>Trustworthy and Responsible AI</li>
   <li>Safety of Multimodal Models and Large Language Models</li>
   <li>NSFW Content Generation and Mitigation</li>
   <li>Privacy-Preserving on Purpose Limitation Principle</li>
 </ul>
 
 # News
+- [Sep. 2023] I pass my Ph.D. milestone 1 progress review (confirmation)!
+- [Sep. 2023] I am invited to become a reviewer of IEEE TDSC and TSC.
+- [Aug. 2023] I present our work on enforcing purpose limitation with polynomial approximation at USENIX Security’24!
+- [Jul. 2024] Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM'24!
+- [Jun. 2024] I am the winner of the Richard Jago Memorial Prize! 
 - [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24!
 - [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
 - [Apr. 2023] I become a Ph.D. student at UQ supervised by A/Prof. Guangdong Bai and Dr. Jason Xue!
 - [Dec. 2022] I am successful in applying for CSIRO's Data61 full scholarship with top-up!
 - [Jan. 2021] Our paper on the LSTM-based hybrid water level prediction method is accepted by JASSE!
   
-# Publications 
+# Selected Publications 
 
 <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" style="color:#000080;">**Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation**</a>  
 **Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* <br>
