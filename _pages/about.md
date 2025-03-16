@@ -23,22 +23,35 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 # Research Interests
 
 <ul>
-  <li>Trustworthy and Responsible AI</li>
-  <li>Safety of Multimodal Models and Large Language Models</li>
-  <li>NSFW Content Generation and Mitigation</li>
-  <li>Privacy-Preserving on Purpose Limitation Principle</li>
+  <li>
+    <strong>Trustworthy and Responsible AI</strong>
+    <ul>
+      <li>Modifier-based jailbreaking on T2I models: ModX@Oakland'25</li>
+      <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
+      <li>Robustness Formalization for Language Model@ICFEM'23</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Usability of Privacy-Preserving ML</strong>
+    <ul>
+      <li>Algorithmic Purpose Limitation: AlgoSpec@USENIX Security'24</li>
+      <li>LSTM-based Water Level Prediction Method: Hybrid@JASSE</li>
+    </ul>
+  </li>
 </ul>
 
 # News
-- [Sep. 2023] I pass my Ph.D. milestone 1 progress review (confirmation)!
-- [Sep. 2023] I am invited to become a reviewer of IEEE TDSC and TSC.
-- [Aug. 2023] I present our work on enforcing purpose limitation with polynomial approximation at USENIX Security’24!
+- [Mar. 2025] Our paper on modifier-based jailbreaking on text-to-image models is accepted by Oakland'25!
+- [Nov. 2024] I become an artificat evaluation (AE) reviewer of USENIX Security'25!
+- [Sep. 2024] I pass my Ph.D. milestone 1 progress review (confirmation)!
+- [Sep. 2024] I am invited to become a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network!
+- [Aug. 2024] I present our work on algorithmic purpose limitation at USENIX Security’24 in Philadelphia!
 - [Jul. 2024] Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM'24!
 - [Jun. 2024] I am the winner of the Richard Jago Memorial Prize! 
 - [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24!
 - [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
 - [Apr. 2023] I become a Ph.D. student at UQ supervised by A/Prof. Guangdong Bai and Dr. Jason Xue!
-- [Dec. 2022] I am successful in applying for CSIRO's Data61 full scholarship with top-up!
+- [Dec. 2022] I am successful in applying for CSIRO's Data61 full scholarship with a top-up!
 - [Jan. 2021] Our paper on the LSTM-based hybrid water level prediction method is accepted by JASSE!
   
 # Selected Publications 
@@ -48,7 +61,7 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-shuofeng.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="" style="color:#000080;">**Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks**</a>  
-Mengyao Ma, **Shuofeng Liu**, M.A.P. Chamikara, Long Wang, Mohan Baruwal Chhetri, Guangdong Bai. *CIKM 2024* <br>
+Mengyao Ma, **Shuofeng Liu**, M.A.P. Chamikara, Mohan Baruwal Chhetri, Guangdong Bai. *CIKM 2024* <br>
 <a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7" style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</a>  
