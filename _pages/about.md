@@ -24,7 +24,7 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 
 <ul>
   <li>
-    <strong>Trustworthy and Responsible AI</strong>
+    <strong>Trustworthy AI</strong>
     <ul>
       <li>Modifier-based jailbreaking on T2I models: ModX@Oakland'25</li>
       <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
@@ -32,7 +32,7 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
     </ul>
   </li>
   <li>
-    <strong>Usability of Privacy-Preserving ML</strong>
+    <strong>Privacy compliance</strong>
     <ul>
       <li>Algorithmic Purpose Limitation: AlgoSpec@USENIX Security'24</li>
       <li>LSTM-based Water Level Prediction Method: Hybrid@JASSE</li>
