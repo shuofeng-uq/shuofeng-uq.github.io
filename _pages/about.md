@@ -58,7 +58,7 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 
 <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/liu-shuofeng" style="color:#000080;">**Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts**</a>  
 **Shuofeng Liu**, Mengyao Ma, Minhui Xue, Guangdong Bai. *Oakland 2025* <br>
-<a href="https://shuofeng-uq.github.io/docs/Modx.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://shuofeng-uq.github.io/assets/pdf/Modx.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/liu-shuofeng" style="color:#000080;">**Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation**</a>  
 **Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* <br>
