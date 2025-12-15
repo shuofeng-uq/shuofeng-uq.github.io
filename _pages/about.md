@@ -71,9 +71,9 @@ Mengyao Ma, **Shuofeng Liu**, Viet Vo, Minghong Fang, Surya Nepal, Guangdong Bai
 **Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* <br>
 <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-shuofeng.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
-<a href="" style="color:#000080;">**Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks**</a>  
+<a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679850?casa_token=2OCq1diRyL0AAAAA:WUSPzq-DdLCE9hZEYh_psUq-j0j5-vS_hS0gSNXXWDly4cb52Wjn-Nz80fYVVZYKl6zGWGJzGcSU2IY" style="color:#000080;">**Unveiling Intellectual Property Vulnerabilities of GAN-Based Distributed Machine Learning through Model Extraction Attacks**</a>  
 Mengyao Ma, **Shuofeng Liu**, M.A.P. Chamikara, Mohan Baruwal Chhetri, Guangdong Bai. *CIKM 2024* <br>
-<a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://shuofeng-uq.github.io/assets/pdf/CIKM'24_MoEx.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7" style="color:#000080;">**Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models**</a>  
 Zhongkui Ma, Xinguo Feng, Zihan Wang, **Shuofeng Liu**, Mengyao Ma, Hao Guan, Mark Huasong Meng. *ICFEM 2023* <br>
