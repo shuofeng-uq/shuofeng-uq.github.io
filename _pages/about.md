@@ -26,13 +26,14 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
   <li>
     <strong>Trustworthy AI</strong>
     <ul>
-      <li>Modifier-based jailbreaking on T2I models: ModX@Oakland'25</li>
+      <li>Modifier-based Jailbreaking on T2I Models: ModX@Oakland'25</li>
+      <li>Client-Side Detection against Poisoning Attacks: ClieND@AsiaCCS'25</li>
       <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
       <li>Robustness Formalization for Language Model@ICFEM'23</li>
     </ul>
   </li>
   <li>
-    <strong>Privacy compliance</strong>
+    <strong>Privacy-Compliant ML</strong>
     <ul>
       <li>Algorithmic Purpose Limitation: AlgoSpec@USENIX Security'24</li>
       <li>LSTM-based Water Level Prediction Method: Hybrid@JASSE</li>
