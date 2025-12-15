@@ -27,7 +27,7 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
     <strong>Trustworthy AI</strong>
     <ul>
       <li>Modifier-based Jailbreaking on T2I Models: ModX@Oakland'25</li>
-      <li>Client-Side Detection against Poisoning Attacks: ClieND@AsiaCCS'25</li>
+      <li>Client-Side Detection against Poisoning Attacks: ClieND@AsiaCCS'26</li>
       <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
       <li>Robustness Formalization for Language Model@ICFEM'23</li>
     </ul>
