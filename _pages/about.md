@@ -41,13 +41,17 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 </ul>
 
 # News
+- [Dec. 2025] Our paper on client-side detection against poisoning attacks is accepted by AsiaCCS'26!
+- [Sep. 2025] I pass my Ph.D. milestone 2 progress review!
+- [Sep. 2025] I serve as a reviewer for AAAI 2025!
+- [May. 2025] I present our work on Unveiling vulnerability of text-to-image models at Oakland’25 in San Francisco!
 - [Mar. 2025] Our paper on modifier-based jailbreaking on text-to-image models is accepted by Oakland'25!
 - [Nov. 2024] I become an artificat evaluation (AE) reviewer of USENIX Security'25!
 - [Sep. 2024] I pass my Ph.D. milestone 1 progress review (confirmation)!
 - [Sep. 2024] I am invited to become a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network!
 - [Aug. 2024] I present our work on algorithmic purpose limitation at USENIX Security’24 in Philadelphia!
 - [Jul. 2024] Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM'24!
-- [Jun. 2024] I am the winner of the Richard Jago Memorial Prize! 
+- [Jun. 2024] I am the winner of the Richard Jago Memorial Prize 2024! 
 - [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24!
 - [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
 - [Apr. 2023] I become a Ph.D. student at UQ supervised by A/Prof. Guangdong Bai and Dr. Jason Xue!
@@ -55,10 +59,13 @@ I am currently a Ph.D. student at the School of Electrical Engineering and Compu
 - [Jan. 2021] Our paper on the LSTM-based hybrid water level prediction method is accepted by JASSE!
   
 # Selected Publications 
+<a href="" style="color:#000080;">**ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning**</a>  
+Mengyao Ma, **Shuofeng Liu**, Viet Vo, Minghong Fang, Surya Nepal, Guangdong Bai. *AsiaCCS 2026* <br>
+<a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
-<a href="https://shuofeng-uq.github.io/assets/pdf/Modx.pdf" style="color:#000080;">**Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts**</a>  
+<a href="https://ieeexplore.ieee.org/abstract/document/11023413" style="color:#000080;">**Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts**</a>  
 **Shuofeng Liu**, Mengyao Ma, Minhui Xue, Guangdong Bai. *Oakland 2025* <br>
-<a href="https://shuofeng-uq.github.io/assets/pdf/Modx.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://shuofeng-uq.github.io/assets/pdf/Oakland'25_ModX.pdf" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/liu-shuofeng" style="color:#000080;">**Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation**</a>  
 **Shuofeng Liu**, Zihan Wang, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. *USENIX Security 2024* <br>
