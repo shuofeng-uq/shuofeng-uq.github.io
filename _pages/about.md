@@ -18,48 +18,55 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me' style='text-align: justify;'></span>
-I am currently a Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, supervised by A/Prof. <a href="https://baigd.github.io/">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues, especially on building trustworthy AI and designing privacy-preserving systems.
+I am currently a final-year Ph.D. candidate at the School of Electrical Engineering and Computer Science (EECS), the University of Queensland, supervised by A/Prof. <a href="https://baigd.github.io/">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues, especially on building trustworthy AI and designing privacy-preserving systems.
 
 # Research Interests
 
 <ul>
   <li>
-    <strong>Trustworthy AI</strong>
+    <strong>AI Security and Safety</strong>
     <ul>
       <li>Modifier-based Jailbreaking on T2I Models: ModX@Oakland'25</li>
       <li>Client-Side Detection against Poisoning Attacks: ClieND@AsiaCCS'26</li>
-      <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
       <li>Robustness Formalization for Language Model@ICFEM'23</li>
     </ul>
   </li>
   <li>
-    <strong>Privacy-Compliant ML</strong>
+    <strong>Privacy-Preserving ML</strong>
     <ul>
+      <li>Reconstruction Attack on Machine Unlearning: MoEx@ICLR'26</li>
       <li>Algorithmic Purpose Limitation: AlgoSpec@USENIX Security'24</li>
+      <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
       <li>LSTM-based Water Level Prediction Method: Hybrid@JASSE</li>
     </ul>
   </li>
 </ul>
 
 # News
-- [Dec. 2025] Our paper on client-side detection against poisoning attacks is accepted by AsiaCCS'26!
+- [Jan. 2026] I pass my Ph.D. milestone 3 progress review!
+- [Jan. 2026] Our paper on RL-guided reconstruction attack against machine unlearning is accepted by ICLR'26.
+- [Dec. 2025] Our paper on client-side detection against poisoning attacks is accepted by AsiaCCS'26.
 - [Sep. 2025] I pass my Ph.D. milestone 2 progress review!
-- [Sep. 2025] I serve as a reviewer for AAAI 2025!
-- [May. 2025] I present our work on Unveiling vulnerability of text-to-image models at Oakland’25 in San Francisco!
-- [Mar. 2025] Our paper on modifier-based jailbreaking on text-to-image models is accepted by Oakland'25!
-- [Nov. 2024] I become an artificat evaluation (AE) reviewer of USENIX Security'25!
+- [Sep. 2025] I serve as a reviewer for AAAI 2025.
+- [May. 2025] I present our work on Unveiling vulnerability of text-to-image models at Oakland’25 in San Francisco.
+- [Mar. 2025] Our paper on modifier-based jailbreaking on text-to-image models is accepted by Oakland'25.
+- [Nov. 2024] I serve as a programme committee for USENIX Security Symoposium artificat evaluation (AE).
 - [Sep. 2024] I pass my Ph.D. milestone 1 progress review (confirmation)!
-- [Sep. 2024] I am invited to become a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network!
-- [Aug. 2024] I present our work on algorithmic purpose limitation at USENIX Security’24 in Philadelphia!
-- [Jul. 2024] Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM'24!
+- [Sep. 2024] I am invited to become a reviewer of IEEE TDSC, TIFS, TSC, and Neural Network.
+- [Aug. 2024] I present our work on algorithmic purpose limitation at USENIX Security’24 in Philadelphia.
+- [Jul. 2024] Our paper on unveiling IP vulnerabilities of GAN-based distributed ML is accepted by CIKM'24.
 - [Jun. 2024] I am the winner of the Richard Jago Memorial Prize 2024! 
-- [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24!
-- [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23!
-- [Apr. 2023] I become a Ph.D. student at UQ supervised by A/Prof. Guangdong Bai and Dr. Jason Xue!
+- [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24.
+- [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23.
+- [Apr. 2023] I become a Ph.D. student at UQ supervised by A/Prof. Guangdong Bai and Dr. Jason Xue.
 - [Dec. 2022] I am successful in applying for CSIRO's Data61 full scholarship with a top-up!
-- [Jan. 2021] Our paper on the LSTM-based hybrid water level prediction method is accepted by JASSE!
+- [Jan. 2021] Our paper on the LSTM-based hybrid water level prediction method is accepted by JASSE.
   
 # Selected Publications 
+<a href="https://openreview.net/forum?id=wKi4Jeqqrb" style="color:#000080;">**ReTrace: Reinforcement Learning-Guided Reconstruction Attacks on Machine Unlearning**</a>  
+Mengyao Ma, **Shuofeng Liu**, Jason Xue, Surya Nepal, Guangdong Bai. *ICLR 2026* <br>
+<a href="https://openreview.net/pdf?id=wKi4Jeqqrb" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+
 <a href="" style="color:#000080;">**ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning**</a>  
 Mengyao Ma, **Shuofeng Liu**, Viet Vo, Minghong Fang, Surya Nepal, Guangdong Bai. *AsiaCCS 2026* <br>
 <a href="" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
