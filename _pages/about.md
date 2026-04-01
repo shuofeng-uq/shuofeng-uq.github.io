@@ -34,7 +34,7 @@ I am currently a final-year Ph.D. candidate at the School of Electrical Engineer
   <li>
     <strong>Privacy-Preserving ML</strong>
     <ul>
-      <li>Reconstruction Attack on Machine Unlearning: MoEx@ICLR'26</li>
+      <li>Reconstruction Attack on Machine Unlearning: ReTrace@ICLR'26</li>
       <li>Algorithmic Purpose Limitation: AlgoSpec@USENIX Security'24</li>
       <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
       <li>LSTM-based Water Level Prediction Method: Hybrid@JASSE</li>
