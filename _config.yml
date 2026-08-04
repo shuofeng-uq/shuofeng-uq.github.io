@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuofeng Liu"
-description              : # "Final-year Ph.D. candidate at School of EECS, The University of Queensland"
+description              : # "Lecturer at SCT, RMIT University"
 repository               : "shuofeng-uq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuofeng Liu"
   avatar           : "images/figure_usa.png"
-  bio              : "Final-year Ph.D. candidate at School of EECS, The University of Queensland"
-  location         : "Brisbane, Australia"
+  bio              : "Lecturer at SCT, RMIT University"
+  location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=-W3U0aoAAAAJ&hl=en&authuser=1"
