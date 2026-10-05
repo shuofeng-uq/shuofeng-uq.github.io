@@ -61,9 +61,9 @@ I am currently a Lecturer at the School of Computing Technology (SCT), RMIT Univ
 - [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23.
   
 # Selected Publications 
-<a href="https://openreview.net/forum?id=wKi4Jeqqrb" style="color:#000080;">**Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization**</a>  
+<a href="https://arxiv.org/abs/2510.10982" style="color:#000080;">**Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization**</a>  
 Zihan Wang, Zhiyong Ma, Zhongkui Ma, **Shuofeng Liu**, Akide Liu, Derui Wang, Minhui Xue, Guangdong Bai. *NeurIPS 2026* <br>
-<a href="https://openreview.net/pdf?id=wKi4Jeqqrb" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+<a href="https://arxiv.org/pdf/2510.10982" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="https://openreview.net/forum?id=wKi4Jeqqrb" style="color:#000080;">**ReTrace: Reinforcement Learning-Guided Reconstruction Attacks on Machine Unlearning**</a>  
 Mengyao Ma, **Shuofeng Liu**, Minhui Xue, Surya Nepal, Guangdong Bai. *ICLR 2026* <br>
