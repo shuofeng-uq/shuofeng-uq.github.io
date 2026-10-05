@@ -43,6 +43,10 @@ I am currently a Lecturer at the School of Computing Technology (SCT), RMIT Univ
 </ul>
 
 # News
+- [Oct. 2026] I was invited to give a talk: "Are Promises Enough? Making Trustworthy AI Enforceable and Verifiable" at University of Melbourne.
+- [Sep. 2026] Our paper on purpose-limited data protection is accepted by NeurIPS'26 (Oral, Top 0.4%)!
+- [Sep. 2026] Our NTE work won the Best Paper Award (Runner-Up) at ECCV’26 LifeGenIP!
+- [Aug. 2026] I was invited to give a talk: "Beyond Promises: Trustworthy AI Across Data Use, Model Behavior, and Memory" at Swinburne University of Technology.
 - [Jan. 2026] Our paper on RL-guided reconstruction attack against machine unlearning is accepted by ICLR'26.
 - [Dec. 2025] Our paper on client-side detection against poisoning attacks is accepted by AsiaCCS'26.
 - [Sep. 2025] I serve as a reviewer for AAAI 2025.
@@ -57,8 +61,12 @@ I am currently a Lecturer at the School of Computing Technology (SCT), RMIT Univ
 - [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23.
   
 # Selected Publications 
+<a href="https://openreview.net/forum?id=wKi4Jeqqrb" style="color:#000080;">**Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization**</a>  
+Zihan Wang, Zhiyong Ma, Zhongkui Ma, **Shuofeng Liu**, Akide Liu, Derui Wang, Minhui Xue, Guangdong Bai. *NeurIPS 2026* <br>
+<a href="https://openreview.net/pdf?id=wKi4Jeqqrb" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
+
 <a href="https://openreview.net/forum?id=wKi4Jeqqrb" style="color:#000080;">**ReTrace: Reinforcement Learning-Guided Reconstruction Attacks on Machine Unlearning**</a>  
-Mengyao Ma, **Shuofeng Liu**, Jason Xue, Surya Nepal, Guangdong Bai. *ICLR 2026* <br>
+Mengyao Ma, **Shuofeng Liu**, Minhui Xue, Surya Nepal, Guangdong Bai. *ICLR 2026* <br>
 <a href="https://openreview.net/pdf?id=wKi4Jeqqrb" role="button" target="_blank">PDF</a> <a href="" role="button" target="_blank">BibTex</a>
 
 <a href="" style="color:#000080;">**ClieND: Client-Side Neuron-Level Detection against Poisoning Attacks on Cross-Silo Federated Learning**</a>  
