@@ -35,9 +35,8 @@ I am currently a Lecturer at the School of Computing Technology (SCT), RMIT Univ
     <strong>Privacy-Preserving ML</strong>
     <ul>
       <li>Reconstruction Attack on Machine Unlearning: ReTrace@ICLR'26</li>
-      <li>Algorithmic Purpose Limitation: AlgoSpec@USENIX Security'24</li>
-      <li>IP Vulnerabilites on Distributed ML: MoEx@CIKM'24</li>
-      <li>LSTM-based Water Level Prediction Method: Hybrid@JASSE</li>
+      <li>Algorithmic Purpose Limitation: AlgoSpec@USENIX Security'24; NTEs@NeurIPS'26</li>
+      <li>IP Vulnerabilities: MoEx@CIKM'24</li>
     </ul>
   </li>
 </ul>
