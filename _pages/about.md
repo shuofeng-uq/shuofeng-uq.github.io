@@ -20,6 +20,10 @@ redirect_from:
 <span class='anchor' id='about-me' style='text-align: justify;'></span>
 I am currently a Lecturer at the School of Computing Technology (SCT), RMIT University, Melbourne, Australia. I received my PhD from the University of Queensland. My research focuses on tackling real-world security & privacy issues, especially on building trustworthy AI and designing privacy-preserving systems.
 
+<div style="background-color: #fdf3f3; border-left: 5px solid #e04848; border-radius: 6px; padding: 16px 20px; margin: 16px 0;">
+<strong style="color: #e04848;">I am looking for self-motivated PhD students to join my research in trustworthy and responsible AI at RMIT University through the CSC–RMIT Joint Funding Program.</strong> If you are interested, please <a href="mailto:shuofeng.liu@rmit.edu.au">email me</a> with your CV and transcripts.
+</div>
+
 # Research Interests
 
 <ul>
@@ -59,6 +63,31 @@ I am currently a Lecturer at the School of Computing Technology (SCT), RMIT Univ
 - [Feb. 2024] Our paper on algorithmic purpose limitation is accepted by USENIX Security’24.
 - [Aug. 2023] Our paper on formalizing neural network perturbation is accepted by ICFEM’23.
   
+<p><a href="#news" id="news-toggle" style="display: none; text-decoration: underline;">Show more news</a></p>
+
+<script>
+  (function () {
+    var limit = 10;
+    var items = document.getElementById('news').nextElementSibling.children;
+    var toggle = document.getElementById('news-toggle');
+    if (items.length <= limit) return;
+    var expanded = false;
+    function render() {
+      for (var i = limit; i < items.length; i++) {
+        items[i].style.display = expanded ? '' : 'none';
+      }
+      toggle.textContent = expanded ? 'Show less' : 'Show more news';
+    }
+    toggle.style.display = '';
+    toggle.addEventListener('click', function (e) {
+      e.preventDefault();
+      expanded = !expanded;
+      render();
+    });
+    render();
+  })();
+</script>
+
 # Selected Publications 
 <a href="https://arxiv.org/abs/2510.10982" style="color:#000080;">**Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization**</a>  
 Zihan Wang, Zhiyong Ma, Zhongkui Ma, **Shuofeng Liu**, Akide Liu, Derui Wang, Minhui Xue, Guangdong Bai. *NeurIPS 2026* <br>
