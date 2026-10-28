@@ -21,7 +21,7 @@ redirect_from:
 I am currently a Lecturer at the School of Computing Technology (SCT), RMIT University, Melbourne, Australia. I received my PhD from the University of Queensland. My research focuses on tackling real-world security & privacy issues, especially on building trustworthy AI and designing privacy-preserving systems.
 
 <div style="background-color: #fdf3f3; border-left: 5px solid #e04848; border-radius: 6px; padding: 16px 20px; margin: 16px 0;">
-<strong style="color: #e04848;">I am looking for self-motivated PhD students to join my research in trustworthy and responsible AI at RMIT University through the CSC–RMIT Joint Funding Program.</strong> If you are interested, please <a href="mailto:shuofeng.liu@rmit.edu.au">email me</a> with your CV and transcripts.
+<strong style="color: #e04848;">I am looking for self-motivated PhD students to join my research in trustworthy and responsible AI at RMIT University through the CSC–RMIT Joint Funding Program. Other co-supervised funding schemes are also available, though these are highly competitive.</strong> If you are interested, please <a href="mailto:shuofeng.liu@rmit.edu.au">email me</a> with your CV and transcripts.
 </div>
 
 # Research Interests
